@@ -1,4 +1,4 @@
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Andreavlm)](https://github.com/ryo-ma/github-profile-trophy)-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Andreavlm)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <div id="user-content-toc">
